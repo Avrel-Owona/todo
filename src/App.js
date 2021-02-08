@@ -47,7 +47,7 @@ function App() {
                   className="button is-link"
                   type="submit"
               >
-                Créer une tache pour Leonard de vinci
+                Créer une tache pour Leonard
               </button>
             </div>
           </form>
